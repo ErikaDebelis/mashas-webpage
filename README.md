@@ -1,4 +1,4 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
 #### _A website about Masha!_
 
